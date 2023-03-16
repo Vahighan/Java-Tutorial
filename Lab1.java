@@ -1,4 +1,5 @@
 //Lab1 - Welcome and display current date to the user
+
 import java.time.format.DateTimeFormatter;  
 import java.time.LocalDateTime; 
 public class HelloDate2 {
